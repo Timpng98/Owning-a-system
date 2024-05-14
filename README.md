@@ -14,8 +14,10 @@ Tasks:
 5. Using John the Ripper to crack the extracted passwords
 
 Tools:
-1. Linux target machine
-2. Linux attacker machine
-3. John the Ripper
-4. sysd
-5. sshd
+1. Microsoft Azure Cloud
+2. Hyper-V Virtualization - Linux
+3. Target machine - Windows RDP
+4. Attacker machine - Windows RDP
+5. John the Ripper
+6. sysd
+7. sshd
